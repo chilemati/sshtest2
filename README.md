@@ -11,7 +11,7 @@
 
 ## 7: back to git bash type > eval "$(ssh-agent -s)" then hit enter
 ## 8: on git bash type > ssh-add ~/.ssh/id_rsa then hit enter
-## 9: on git bash type > ssh -T git@github.com then hit enter, it will bring out a ## prumpt, type yes and hit enter, the it will bring out a message like: Hi ## your_git_username, you have successfully authenticated, ...
+## 9: on git bash type > ssh -T git@github.com then hit enter, it will bring out a  prumpt, type yes and hit enter, the it will bring out a message like: Hi  your_git_username, you have successfully authenticated, ...
 ## 10: create a git repo, then copy the ssh link and then:
  ##  a: open a folder in vscode
   ## b: on vscode terminal or git bash for this folder, type
