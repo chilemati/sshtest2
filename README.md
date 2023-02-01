@@ -7,8 +7,8 @@
 ## 4: press enter at each prompt until it shows an image in box
 ## 5: type > cat id_rsa , this will bring out your public key, copy it by 
 ##      right  clickig and selecting copy
-## 6: go to your gitub setting, select ssh and gpg key, then on the first input,
-##      type a name for this ssh key, on the second input, paste the ssh key you ## copied from git bash, make sure you remove the extral horizontal space before ## use create the key, verify and your ssh key is linked
+## 6: go to your gitub setting, select ssh and gpg key, then on the first input,    type a name for this ssh key, on the second input, paste the ssh key you copied from git bash, make sure you remove the extral horizontal space before use create the key, verify and your ssh key is linked
+
 ## 7: back to git bash type > eval "$(ssh-agent -s)" then hit enter
 ## 8: on git bash type > ssh-add ~/.ssh/id_rsa then hit enter
 ## 9: on git bash type > ssh -T git@github.com then hit enter, it will bring out a ## prumpt, type yes and hit enter, the it will bring out a message like: Hi ## your_git_username, you have successfully authenticated, ...
