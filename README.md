@@ -1,5 +1,5 @@
-# sshtest2
-# Testing git push using ssh 
+
+# How to use SSH for git/github without Error
 ## steps: 
 ## 1: look for .ssh folder inside c:/users/current_user/.ssh
 ## 2: git bash there
