@@ -5,7 +5,7 @@
 ## 2: git bash there
 ## 3: type > ssh-keygen -t rsa -b 4096 -C "your_email@example.com"  then press enter
 ## 4: press enter at each prompt until it shows an image in box
-## 5: type > cat id_rsa , this will bring out your public key, copy it by 
+## 5: type > cat id_rsa.pub , this will bring out your public key, copy it by 
 ##      right  clickig and selecting copy
 ## 6: go to your gitub setting, select ssh and gpg key, then on the first input,    type a name for this ssh key, on the second input, paste the ssh key you copied from git bash, make sure you remove the extral horizontal space before use create the key, verify and your ssh key is linked
 
