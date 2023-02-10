@@ -1,7 +1,7 @@
 
 # How to use SSH for git/github without Error
 ## steps: 
-## 1: look for .ssh folder inside c:/users/current_user/.ssh
+## 1: look for .ssh folder inside c:/users/current_user/.ssh if not found, create it
 ## 2: git bash there
 ## 3: type > ssh-keygen -t rsa -b 4096 -C "your_email@example.com"  then press enter
 ## 4: press enter at each prompt until it shows an image in box
